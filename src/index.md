@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
+title: Home
 ---
 
 # Welcome to your new Bridgetown website.
